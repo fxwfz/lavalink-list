@@ -160,6 +160,15 @@
         "secure": false,
         "restVersion": "v4",
         "authorId": "938443713527545966"
+    },
+    {
+        "identifier": "VisiHost",
+        "host": "In1.sanode.xyz",
+        "port": "19135",
+        "password": "youshallnotpass",
+        "secure": false,
+        "resetVersion": "v4"
+        "authorId": "1313376026327384109"
     }
 ]
 
